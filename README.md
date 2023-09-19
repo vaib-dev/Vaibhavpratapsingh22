@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi people, hope you are doing good. I'm a FrontEnd developer professionally and a good human personally. I like to make new friends, explore new places, etc.
+## Hi people, hope you are doing good. I'm a FrontEnd developer professionally and a good human personally.
 🔭 I’m currently working on Ecommerce product listing<br><br>🌱 I’m currently learning NodeJs, AWS, NextJs,etc.<br><br>👨‍💻 All of my projects are available at https://github.com/Vaibhavpratapsingh22<br><br>💬 Ask me about ReactJs, NestJs, MongoDB, HTML, CSS, etc.<br><br>📫 How to reach me vaibhavpratapsingh22@gmail.com
 
 

@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hello there, wonderful people! I wear two hats: professionally, I'm a FrontEnd developer weaving digital magic, and personally, I strive to be a beacon of kindness in this world. It's my mission to make the web more beautiful and user-friendly, one line of code at a time. Let's connect and make the digital realm a better place, together! 😊💻✨
 
-🔭 I’m currently working on Ecommerce product listing<br><br>🌱 I’m currently learning NodeJs, AWS, NextJs,etc.<br><br>👨‍💻 All of my projects are available at https://github.com/Vaibhavpratapsingh22<br><br>💬 Ask me about ReactJs, NestJs, MongoDB, HTML, CSS, etc.<br><br>📫 How to reach me vaibhavpratapsingh22@gmail.com
+🔭 I’m currently working on creating a project which is spare parts website in frontend, a admin pannel and mongoDB database.<br><br>🌱 I’m currently learning NodeJs, AWS, NextJs,etc.<br><br>👨‍💻 All of my projects are available at https://github.com/Vaibhavpratapsingh22<br><br>💬 Ask me about ReactJs, NestJs, MongoDB, HTML, CSS, etc.<br><br>📫 How to reach me vaibhavpratapsingh22@gmail.com
 
 
 ## 🌐 Socials:

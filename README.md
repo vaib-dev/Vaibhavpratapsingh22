@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello there, wonderful people! I wear two hats: professionally, I'm a FrontEnd developer weaving digital magic, and personally, I strive to be a beacon of kindness in this world. It's my mission to make the web more beautiful and user-friendly, one line of code at a time. Let's connect and make the digital realm a better place, together! 😊💻✨
+## Hello there, wonderful people! I wear two hats: professionally, I'm a Full-Stack developer weaving digital magic, and personally, I strive to be a beacon of kindness in this world. It's my mission to make the web more beautiful and user-friendly, one line of code at a time. Let's connect and make the digital realm a better place, together! 😊💻✨
 
 
 # 💻 Tech Stack:
